@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\ASUS\source\repos\1028c++\1028c++\FileName.cpp(46,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  1028c++.vcxproj -> C:\Users\ASUS\source\repos\1028c++\x64\Debug\1028c++.exe
