@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\ASUS\source\repos\实验二2024.10.29\实验二2024.10.29\FileName.cpp(1,1): warning C4335: 检测到 Mac 文件格式: 请将源文件转换为 DOS 格式或 UNIX 格式
+C:\Users\ASUS\source\repos\实验二2024.10.29\实验二2024.10.29\FileName.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+MSVCRT.lib(exe_main.obj) : error LNK2001: 无法解析的外部符号 main
+C:\Users\ASUS\source\repos\实验二2024.10.29\x64\Release\实验二2024.10.29.exe : fatal error LNK1120: 1 个无法解析的外部命令
