@@ -1,0 +1,3 @@
+﻿  源代码.c
+C:\Users\ASUS\source\repos\C算法与数据结构001\C算法与数据结构001\源代码.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C算法与数据结构001.vcxproj -> C:\Users\ASUS\source\repos\C算法与数据结构001\x64\Debug\C算法与数据结构001.exe
